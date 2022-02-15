@@ -37,3 +37,11 @@ Example C Programming
 16-HackerRank Question Example ( özüne indirgemek için örnekler)
 
 17-Number puzzle ( özüne indirgemek için örnekler)
+
+18-DiameterCurcle ( dairenin çapını bulmak için örnek )
+
+19-RandomNum ( random sayi üretme )
+
+20-InputOrSum ( girilen sayiya kadar olan toplamı bulma )
+
+21-MultiplicationTable ( çarpım tablosu )
