@@ -47,3 +47,5 @@ Example C Programming
 21-MultiplicationTable ( çarpım tablosu )
 
 22-LoopsExample ( Döngü örnekleri)
+
+23-FunctionExample ( fonksiyon örnek )
